@@ -1,6 +1,4 @@
-# PRODIGY_CS_05
-
-TASK 5 : Network Packet Analyzer
+# Network Packet Analyzer
 
 PROBLEM STATEMENT : Develop a packet sniffer tool that captures and analyzes network packets. 
 Display relevant information such as source and destination IP addresses, 
